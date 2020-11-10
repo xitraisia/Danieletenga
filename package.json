@@ -21,6 +21,7 @@
         "pug",
         "responsive",
         "theme",
+        "heroku",
         "template"
     ],
     "license": "MIT",
@@ -28,6 +29,9 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/xitraisia/Danieletenga.git"
+    },
+    "engines": {
+        "node": "15.1.0"
     },
     "dependencies": {
         "bootstrap": "4.5.3"
